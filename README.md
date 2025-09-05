@@ -66,17 +66,6 @@ with Attentional Generative Adversarial Networks](http://openaccess.thecvf.com/c
 ### Creating an API
 [Evaluation code](eval) embedded into a callable containerized API is included in the `eval\` folder.
 
-### Citing AttnGAN
-If you find AttnGAN useful in your research, please consider citing:
-
-```
-@article{Tao18attngan,
-  author    = {Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He},
-  title     = {AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks},
-  Year = {2018},
-  booktitle = {{CVPR}}
-}
-```
 
 **Reference**
 
